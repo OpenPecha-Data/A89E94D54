@@ -1,0 +1,19 @@
+segment_sources:
+  P4ED43490:
+    type: origin_type
+    relation: translation
+    language: en
+  PA42733A1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  63ab9511ec644a81bd5f321d813a3279:
+    P4ED43490: f1f84ab5b1994848ac257b4d6f513903
+    PA42733A1: d9267a62b23643f0bead5d92349af1cb
+  7e8bb2f815cf4ad9a10c52e45b378914:
+    P4ED43490: 2e64d5cd9e854233951e396b7595151e
+    PA42733A1: 4c7b1a021c174bba860ca61861f046d1
+  54fd7d080cbd4990839bd10d8b2cdea5:
+    P4ED43490: 5fee40c27e9e4dc689454661d2871f01
+    PA42733A1: faa426d0db7c4fb398eba3dd26796197

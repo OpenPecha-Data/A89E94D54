@@ -1,0 +1,25 @@
+segment_sources:
+  P4ED43490:
+    type: origin_type
+    relation: translation
+    language: en
+  PA42733A1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a4b11bae78c94b76a45b971d745be30e:
+    P4ED43490: bcc7a02faaf041e7a3f08d619b2e4ef9
+    PA42733A1: 1a20f0f4512f4c858a2013327e964a9b
+  264c18291fb24dd3a2f57201c81d719e:
+    P4ED43490: d9585e52217b4ca49c7f00dc35dfcddd
+    PA42733A1: de31ca32c34b4d50a33c140b4ac956ce
+  5b5a917422004ea094a698d0e1e5d414:
+    P4ED43490: ddea3de2ed4148f2ae1e62b370960f32
+    PA42733A1: 1095c6cdaed64ed395ef44bd30ab7c3b
+  9fb05c2b7176432e97977550209de051:
+    P4ED43490: 1e045b7c5f6d4c34a3378d29d53b5ad1
+    PA42733A1: 2084d00901d44afabcb061fbb159c135
+  5c25852d8c0b43edbff20c84c4ee16f9:
+    P4ED43490: 32f2cee06d4148d8843d1997459891fd
+    PA42733A1: 3d80eca3e5a14174b71488246c0f3e6e
